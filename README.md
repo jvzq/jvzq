@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey!👋
 
-I'm jose. 
+I'm Jose, a fledgling developer and designer with experience in IT and system administration. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvzq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+Nice to meet ya! 🤠
+
+
+
